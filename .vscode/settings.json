@@ -1,0 +1,20 @@
+{
+    "Lua.diagnostics.globals": [
+        "love",
+        "draw",
+        "input",
+        "istable",
+        "lighter",
+        "isbool",
+        "isstring",
+        "hook",
+        "light",
+        "tileSize"
+    ],
+    "Lua.diagnostics.disable": [
+        "undefined-field",
+        "undefined-global",
+        "param-type-mismatch",
+        "redundant-parameter"
+    ]
+}
